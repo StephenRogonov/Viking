@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Hero
+  - Chest
+  - Damageable
+  - HeroProjectile
+  - EnemyConfiner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Ladder
+  - Hero
+  - Coin
+  - Chest
+  - HeroFeet
+  - HeroDamage
+  - EnemyConfiner
+  - EnemyTargetDetector
+  - PlayerProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 264738551
+    locked: 0
+  - name: Floating Objects
+    uniqueID: 2138017521
+    locked: 0
+  - name: Water
+    uniqueID: 624367229
+    locked: 0
+  - name: Ground
+    uniqueID: 3209108141
+    locked: 0
+  - name: Ladder
+    uniqueID: 3924575725
+    locked: 0
+  - name: Enemy
+    uniqueID: 3946827583
+    locked: 0
+  - name: Character
+    uniqueID: 2106336433
+    locked: 0
+  - name: Cart
+    uniqueID: 2067339465
+    locked: 0
+  - name: Wheels
+    uniqueID: 3497605461
+    locked: 0
+  - name: Front
+    uniqueID: 452215597
+    locked: 0
